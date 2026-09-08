@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: SuperAPI |cFFFF8080-balake-|r
+## Title: SuperAPI |cFFFF8080-balake-|r |cff7fff7f - Project Legacy|r
 ## Notes: the companion compatibility addon to the mod of the same name.
 ## Author: balake | a Project Legacy fork by ziq
 ## SavedVariablesPerCharacter: SuperAPIDB
